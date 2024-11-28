@@ -92,3 +92,7 @@ Content/ThirdPerson/*
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
 Content/Characters/*
+
+# Lowpoly Handpainted Environment
+# https://www.fab.com/listings/d7408876-2301-468a-a2e9-6eea38ddc10d
+/Content/HandPaintedEnvironment/*
