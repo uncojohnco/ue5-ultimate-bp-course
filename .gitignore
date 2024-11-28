@@ -83,3 +83,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Below are content packages that needs to be re-added via unreal if missing
+# This assumes the content packages are never changed
+Content/StarterContent/*
+Content/ThirdPerson/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/Characters/*
